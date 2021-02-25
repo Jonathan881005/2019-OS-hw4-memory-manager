@@ -1,0 +1,18 @@
+Policy: SLRU
+Number of Virtual Page: 7
+Number of Physical Frame: 5
+-----Trace-----
+Write 0
+Read 1
+Write 1
+Read 2
+Write 3
+Write 4
+Read 1
+Write 1
+Read 4
+Write 5
+Write 6
+Read 0
+Read 6
+Write 2
